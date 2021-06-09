@@ -23,7 +23,7 @@ Results on ISPRS Vaihingen dataset
 ![results](pred_vaihingen.png)
 
 ## Installation
-In our experiment, All the codes are tested in Python 3.6 (If you use Python 2.7, please add some system paths), CUDA 8.0 and CUDNN 5.1.
+In our experiment, All the codes are tested in Python 3.6 (If you use Python 2.7, please add some system paths), CUDA 10.1.
 
 Install TensorFlow (We use v1.14).
 Install other python libraries like h5py
