@@ -8,7 +8,7 @@ Introduction
 ------------
 This is the source code for our paper **A Novel Semi-Supervised Method for Airborne LiDAR Point Cloud Classification**
 
-Paper link: https://arxiv.org/abs/1910.05909
+Paper link: ***
 
 Our method achieves an overall accuracy of 83.3% and an average F1 score of 69.0% on ISPRS Vaihingen dataset with only 10% labeled samples. 
 
