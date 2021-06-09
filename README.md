@@ -15,7 +15,7 @@ Our method achieves an overall accuracy of 83.3% and an average F1 score of 69.0
 Network Architecture
 --------------------
 The architecture of our proposed model is as follows
-![network](fig_main.png)
+![network](fig_pipeline.png)
 
 
 Results on ISPRS Vaihingen dataset
